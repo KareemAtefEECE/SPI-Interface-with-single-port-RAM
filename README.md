@@ -10,6 +10,5 @@ SPI (Serial-Peripheral Interface) is one of the most popular interfaces nowadays
 ## Main Function
 https://github.com/KareemAtefEECE/SPI-Interface-with-single-port-RAM/blob/main/images/Figure1.png
 <div align="center">
-  <img src="[path/to/your/image.png](https://github.com/KareemAtefEECE/SPI-Interface-with-single-port-RAM/blob/main/images/Figure1.png
-)" alt=" SPI Diagram">
+  <img src="https://github.com/KareemAtefEECE/SPI-Interface-with-single-port-RAM/blob/main/images/Figure1.png" alt=" SPI Diagram">
 </div>
