@@ -59,8 +59,6 @@ initial begin
 	#10
     SS_n=1;
     
-    DUT.ram.mem[172]=123;
-
 	// Read Address Test Case
 	#10
 	SS_n=0;
