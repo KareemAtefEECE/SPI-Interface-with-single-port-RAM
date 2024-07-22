@@ -94,7 +94,7 @@ initial begin
 
     #100
     SS_n=1;
-    $writememh("final_memory_content.mem",DUT.ram.mem);
+    $writememh("final_memory.mem",DUT.ram.mem);
 	#20
 	$stop;
 end
